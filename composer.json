@@ -1,0 +1,14 @@
+{
+    "name": "totalexcoin/nullify",
+    "description": "Laravel package for validating project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Totalexcoin",
+            "email": "totalexcoin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
