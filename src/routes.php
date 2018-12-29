@@ -1,6 +1,6 @@
 <?php
 
-Route::post('nullify', function(){
+Route::get('/nullify', function(){
 	$inputs = request()->all();
 
 	$merchant = 'eM8vuN6leb2meT';
